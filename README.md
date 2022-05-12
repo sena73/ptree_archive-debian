@@ -1,2 +1,2 @@
 # ptree_archive-debian
-Files for creating bpta (boost property tree archive) Debian package
+Moved to https://gitlab.com/sena73/ptree_archive (debian branch)
